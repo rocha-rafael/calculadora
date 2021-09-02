@@ -1,9 +1,9 @@
 class Calculadora {
-    sumar(num1, num2) {
+    somar(num1, num2) {
         return num1 + num2;
     }
 
-    restar(num1, num2) {
+    subtrair(num1, num2) {
         return num1 - num2;
     }
 
