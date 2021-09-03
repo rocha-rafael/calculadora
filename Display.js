@@ -7,7 +7,7 @@ class Display {
         this.valorActual = '';
         this.valorAnterior = '';
         this.signos = {
-            sumar: '+',
+            somar: '+',
             dividir: '%',
             multiplicar: 'x',
             restar: '-', 
